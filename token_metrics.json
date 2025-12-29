@@ -1,0 +1,44 @@
+[
+  {
+    "reuse_fraction": 0.0,
+    "lcp_tokens": 0,
+    "prompt_tokens": 4000,
+    "time_to_first_token": 0.9522490501403809,
+    "time_per_output_token": 0.08076811318907273
+  },
+  {
+    "reuse_fraction": 0.2,
+    "lcp_tokens": 800,
+    "prompt_tokens": 4000,
+    "time_to_first_token": 0.905907154083252,
+    "time_per_output_token": 0.0827757469053001
+  },
+  {
+    "reuse_fraction": 0.4,
+    "lcp_tokens": 1600,
+    "prompt_tokens": 4000,
+    "time_to_first_token": 0.736736536026001,
+    "time_per_output_token": 0.08228799774023621
+  },
+  {
+    "reuse_fraction": 0.6,
+    "lcp_tokens": 2400,
+    "prompt_tokens": 4000,
+    "time_to_first_token": 0.5278275012969971,
+    "time_per_output_token": 0.08104497660638899
+  },
+  {
+    "reuse_fraction": 0.8,
+    "lcp_tokens": 3200,
+    "prompt_tokens": 4000,
+    "time_to_first_token": 0.3104386329650879,
+    "time_per_output_token": 0.08144446984245146
+  },
+  {
+    "reuse_fraction": 1.0,
+    "lcp_tokens": 4000,
+    "prompt_tokens": 4000,
+    "time_to_first_token": 0.09967637062072754,
+    "time_per_output_token": 0.08169932615728737
+  }
+]

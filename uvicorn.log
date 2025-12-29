@@ -1,0 +1,12 @@
+2025-11-17 14:44:12,036 INFO uvicorn.error - Started server process [4023019]
+2025-11-17 14:44:12,036 INFO uvicorn.error - Waiting for application startup.
+2025-11-17 14:44:12,195 INFO uvicorn.error - Application startup complete.
+2025-11-17 14:50:31,662 INFO uvicorn.access - 127.0.0.1:44490 - "POST /v1/chat/completions HTTP/1.1" 200
+2025-11-17 14:50:35,752 INFO uvicorn.access - 127.0.0.1:44498 - "POST /v1/chat/completions HTTP/1.1" 200
+2025-11-17 14:50:38,590 INFO uvicorn.access - 127.0.0.1:44504 - "POST /v1/chat/completions HTTP/1.1" 200
+2025-11-17 14:50:44,156 INFO uvicorn.access - 127.0.0.1:55140 - "POST /v1/chat/completions HTTP/1.1" 200
+2025-11-17 14:50:48,905 INFO uvicorn.access - 127.0.0.1:55148 - "POST /v1/chat/completions HTTP/1.1" 200
+2025-11-17 14:50:52,047 INFO uvicorn.access - 127.0.0.1:59364 - "POST /v1/chat/completions HTTP/1.1" 200
+2025-11-17 14:50:55,804 INFO uvicorn.access - 127.0.0.1:59368 - "POST /v1/chat/completions HTTP/1.1" 200
+2025-11-17 14:51:00,738 INFO uvicorn.access - 127.0.0.1:59382 - "POST /v1/chat/completions HTTP/1.1" 200
+2025-11-17 14:51:05,532 INFO uvicorn.access - 127.0.0.1:58816 - "POST /v1/chat/completions HTTP/1.1" 200
